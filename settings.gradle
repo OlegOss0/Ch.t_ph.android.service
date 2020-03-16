@@ -1,0 +1,2 @@
+rootProject.name='Ch.t_ph.android.service'
+include ':app'
